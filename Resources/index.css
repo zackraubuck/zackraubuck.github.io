@@ -1,0 +1,61 @@
+* {
+    font-family: Helvetica, Arial, sans-serif;
+
+  }
+  
+  .header{
+    background-image: url("WeddingGroup.jpg");
+    height: 400px;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: .5;
+    
+  }   
+
+  body {
+    background-color: #d6d6d6;  
+  }
+  
+  .header h1 {
+    color: rgb(0, 0, 0);
+    font-family: helvetica, arial, sans-serif;
+    padding: 10 px;
+    position: relative;
+    top: 90%;
+    width: 220px;
+    border: 2px solid white;
+    border-radius: 10px;
+    margin: 0 auto;
+    opacity: 1;
+  }
+  
+  .headers{
+     color:red;
+     opacity: .5;
+  }
+
+  p, 
+  li {
+    font-size: 18px;
+  }
+  
+  
+  a {
+    text-decoration: none;
+  }
+
+  .contact{
+    color: rgb(208, 208, 218);
+    background-color: #f1abab;
+    font-family: cursive;
+    position: fixed;
+    float: right;
+    width: 100px;
+    border: 2px solid white;
+    border-radius: 10px;
+    top: 80%;
+    right:5%;
+    padding:10px;
+
+  }
